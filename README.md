@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Youssef Ibraheem
 - 🖥️ Backend Web Developer 
-- 👨🏼‍💻experienced in creating resopsive webistes using PHP / Laravel
+- 👨🏼‍💻experienced in creating responsive websites using PHP / Laravel
 - 💞️ I’m looking to collaborate on a New Project to add it to my Profile  
 - 📫 You can contact me on my Email youssefm.muhammed@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 YoussefIbraheem/YoussefIbraheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
