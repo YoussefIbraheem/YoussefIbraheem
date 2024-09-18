@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Youssef Ibraheem
 - 🖥️ Backend Web Developer with 1.5+ years of experience
 - 👨🏼‍💻 Proficient in building responsive web applications using **PHP / Laravel**, MySQL, and modern tools like **Livewire** and **Alpine.js**
-- 💼 Seeking to collaborate on new projects to further enhance my portfolio and GitHub profile
+- 💼 Seeking to collaborate on new projects to enhance my portfolio and GitHub profile further
 - 💬 Feel free to reach out to me for any collaboration or project discussions at [youssefm.muhammed@gmail.com](mailto:youssefm.muhammed@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
