@@ -4,7 +4,7 @@
 - 💼 Seeking to collaborate on new projects to enhance my portfolio and GitHub profile further
 - 💬 Feel free to reach out to me for any collaboration or project discussions at [youssefm.muhammed@gmail.com](mailto:youssefm.muhammed@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
