@@ -5,7 +5,8 @@
 - 💬 Feel free to reach out to me for any collaboration or project discussions at [youssefm.muhammed@gmail.com](mailto:youssefm.muhammed@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+![](https://www.codewars.com/users/YoussefIbraheem/badges/small)
 ---
 
 ## 🛠️ Tools, Frameworks, and Languages I Work With
