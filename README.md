@@ -9,7 +9,7 @@
 ![](https://www.codewars.com/users/YoussefIbraheem/badges/small)
 ---
 
-## 🛠️ Tools, Frameworks, and Languages I Work With
+## 🛠️ OS, Tools, Frameworks, and Languages I Work With
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
