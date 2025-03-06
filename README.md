@@ -3,6 +3,7 @@
 - 👨🏼‍💻 Proficient in building responsive web applications using **PHP / Laravel**, MySQL, and modern tools like **Livewire** and **Alpine.js**
 - 💼 Seeking to collaborate on new projects to enhance my portfolio and GitHub profile further
 - 💬 Feel free to reach out to me for any collaboration or project discussions at [youssefm.muhammed@gmail.com](mailto:youssefm.muhammed@gmail.com)
+- 🐍Taking a deep dive into the world of Python Development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
