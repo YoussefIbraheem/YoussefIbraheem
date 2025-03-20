@@ -57,6 +57,9 @@
 ![](https://www.codewars.com/users/YoussefIbraheem/badges/small)
 
 ---
+## Misc
+
+<a href="https://app.daily.dev/youssef36"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?r=afz&type=default" width="356" alt="Youssef's Dev Card"/></a>
 
 **Let's build something great together! 🚀**
 
