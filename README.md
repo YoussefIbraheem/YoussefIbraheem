@@ -1,4 +1,10 @@
+
+
+
+
 ### 👋 Hi, I’m Youssef Ibraheem
+
+<a href="https://app.daily.dev/youssef36"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?r=afz&type=default" width="356" alt="Youssef's Dev Card"/></a>
 
 - 🖥️ **Backend Web Developer** with **1.5+ years of experience** in building dynamic, scalable web applications.
 - 🔍 Currently transitioning into **Python Development** with a focus on Backend and AI technologies.
@@ -52,11 +58,15 @@
 
 ## 📊 GitHub Stats
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Youssef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbraheem&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![YoussefIbraheem's Stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+<br>
+![YoussefIbraheem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefIbraheem&theme=blueberry&hide_border=true)
+<br>
+![YoussefIbraheem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 ---
-## Misc
-
-<a href="https://app.daily.dev/youssef36"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?r=afz&type=default" width="356" alt="Youssef's Dev Card"/></a>
 
 **Let's build something great together! 🚀**
+
+
+
+
