@@ -54,6 +54,14 @@
 
 [![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/Ali-Adel-Nour/Theme/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![](https://www.codewars.com/users/YoussefIbraheem/badges/small)
 
 ---
@@ -62,4 +70,3 @@
 <a href="https://app.daily.dev/youssef36"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?r=afz&type=default" width="356" alt="Youssef's Dev Card"/></a>
 
 **Let's build something great together! 🚀**
-
