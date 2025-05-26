@@ -4,6 +4,10 @@
 
 ### 👋 Hi, I’m Youssef Ibraheem
 
+
+<a href="https://app.daily.dev/joebawkins"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?type=wide&r=m8z" width="652" alt="Youssef's Dev Card"/></a>
+
+
 - 🖥️ **Backend Web Developer** with **1.5+ years of experience** in building dynamic, scalable web applications.
 - 🔍 Currently transitioning into **Python Development** with a focus on Backend and AI technologies.
 - 📚 **Currently Learning:**
