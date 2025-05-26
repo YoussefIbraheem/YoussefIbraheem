@@ -63,8 +63,12 @@
 ![YoussefIbraheem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 ---
 
-**Let's build something great together! 🚀**
+### 🌐 Connect with Me
 
+[![Codewars](https://www.codewars.com/users/YoussefIbraheem/badges/small)](https://www.codewars.com/users/YoussefIbraheem)
+[![DEV.to](https://img.shields.io/badge/DEV.to-%2312100E.svg?style=flat&logo=devdotto&logoColor=white)](https://dev.to/joe_996)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@youssefm.muhammed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ibraheem/)
 
 
 
