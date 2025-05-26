@@ -7,7 +7,7 @@
 
 <a href="https://app.daily.dev/joebawkins"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?type=wide&r=uqy" width="652" alt="Youssef's Dev Card"/></a>
 
-[![Codewars](https://www.codewars.com/users/YoussefIbraheem/badges/small)](https://www.codewars.com/users/YoussefIbraheem)
+[![Codewars](https://www.codewars.com/users/YoussefIbraheem/badges/large)](https://www.codewars.com/users/YoussefIbraheem)
 
 - 🖥️ **Backend Web Developer** with **1.5+ years of experience** in building dynamic, scalable web applications.
 - 🔍 Currently transitioning into **Python Development** with a focus on Backend and AI technologies.
