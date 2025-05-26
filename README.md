@@ -7,7 +7,7 @@
 
 <a href="https://app.daily.dev/joebawkins"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?type=wide&r=uqy" width="652" alt="Youssef's Dev Card"/></a>
 
-<img src="https://www.codewars.com/users/YoussefIbraheem/badges/large" alt="Youssef's CodeWars Card">
+<img src="https://www.codewars.com/users/YoussefIbraheem/badges/medium" alt="Youssef's CodeWars Card">
 
 
 - 🖥️ **Backend Web Developer** with **1.5+ years of experience** in building dynamic, scalable web applications.
