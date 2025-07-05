@@ -2,7 +2,7 @@
 
 
 
-### 👋 Hi, I’m Youssef Ibraheem
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I’m Youssef Ibraheem
 
 
 <a href="https://app.daily.dev/joebawkins"><img src="https://api.daily.dev/devcards/v2/j3BvLmPqsGNicV221bcFv.png?type=wide&r=uqy" width="652" alt="Youssef's Dev Card"/></a>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
 
 ![YoussefIbraheem's Stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 <br>
