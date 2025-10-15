@@ -25,12 +25,15 @@
 
 ---
 
-## 🔥 Projects
-| Project       | Description                     | Tech Stack               | Link                  |
-|--------------|--------------------------------|--------------------------|-----------------------|
-| **Wajbati**  | Food Delivery Application for KSA | Laravel, Livewire, Alpine.js, MySQL | Private (On Demand)   |
-| **G.Ride**   | Car Booking Service for Egypt's North Coast | Laravel, Alpine.js, Firebase, MySQL | Private (On Demand)   |
-| **Game3at+** | Sports Tournament Management Platform | Laravel, Alpine.js, MySQL | Private (On Demand)   |
+## 🚀 Featured Public Projects
+
+| Project | Description | Tech Stack | Repo |
+|----------|--------------|------------|------|
+| **Ideal Laravel App** | Demonstrates clean RESTful endpoint design, repository pattern, and caching strategy using Laravel. | Laravel, MySQL, Redis, PHPUnit | [View Repo](https://github.com/YoussefIbraheem/ideal_laravel_app) |
+| **Ideal Laravel App (Containerised)** | Dockerized version of the Ideal Laravel App with environment isolation for production parity. | Laravel, Docker, Redis, Nginx | [View Repo](https://github.com/YoussefIbraheem/ideal_laravel_app_containerized) |
+| **PHP MVC Implementation** | Native PHP MVC framework built from scratch following PSR-12 standards. | PHP, Composer, PSR-4 Autoloading | [View Repo](https://github.com/YoussefIbraheem/php_mvc_implementation) |
+| **Events Planning (Django)** | Work-in-progress event management backend focusing on ticketing and user-event relationships. | Django, DRF, SQLite | [View Repo](https://github.com/YoussefIbraheem/events_planning_django) |
+
 
 ---
 
