@@ -10,12 +10,10 @@
     - Generative AI Course for Backend Developers using Python
 - 💪 Passionate about building clean, maintainable code and always looking for new challenges.
 - 💼 Open to **collaborations** on Python projects, backend systems, or AI-based applications.
-- 💬 Let's connect! Reach out at [youssefm.muhammed@gmail.com](mailto:youssefm.muhammed@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/youssef-ibraheem/)
-
 ---
 
 ### 🌐 Connect with Me
-
+[![Email](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=envalope&logoColor=white)](youssefm.muhammed@gmail.com)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/YoussefIbraheem)
 [![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/joe_996)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@youssefm.muhammed)
