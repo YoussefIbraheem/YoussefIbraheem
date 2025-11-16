@@ -56,8 +56,8 @@
 
 ## 🤖 AI & LLM Development Tools
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3B73?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3B73?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-8800FF?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
