@@ -1,12 +1,12 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I’m Youssef Ibraheem
 
-- 🖥️ **Backend Web Developer** with **1.5+ years of experience** building scalable web applications.
-- 🐍 **Python & AI Backend Developer (Transitioning)** — applying Python to backend architecture, automation, and LLM-powered workflows.
-- 🌱 **Junior Django Developer** with hands-on experience building real backend systems.
-- 📚 **Currently Learning:**  
-  - Generative AI for Backend Developers (Python)
-- 🚀 I enjoy clean architecture, performance optimization, and building smart backend systems powered by AI.
-- 🤝 Open to collaborations on **Python**, **Django**, **Backend Systems**, and **AI-driven applications**.
+- 🖥️ **Mid-Level Backend Developer** with 2+ years of production experience building scalable systems using **Laravel**, **PHP**, and **MySQL**.
+- 🚀 Hands-on contributor to high-traffic applications, delivering optimized APIs, database improvements, caching strategies, and automated backend workflows.
+- 🐍 Expanding into **Python Backend Development**, working with **FastAPI**, **Flask**, and **Django** for API design and service integration.
+- 🤖 Actively integrating **Generative AI** into backend architectures using **LangChain**, **OpenAI**, **Ollama**, **Qdrant**, and vector-based retrieval techniques.
+- 🧰 Experienced with **Docker**, **Redis**, **Celery**, **FilamentPHP**, **Livewire**, **CI/CD pipelines**, and containerized production environments.
+- 📚 Currently enhancing my AI engineering skills through a specialised **GenAI course for backend developers**.
+- 💼 Open to collaborations on **Laravel**, **Python backend**, and **AI-powered backend systems**.
 
 ---
 
@@ -80,3 +80,4 @@
 
 ![YoussefIbraheem's Stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&count_private=true)  
 ![YoussefIbraheem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
