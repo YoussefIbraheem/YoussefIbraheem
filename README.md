@@ -79,6 +79,5 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
-![YoussefIbraheem's Stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&count_private=true)  
-![YoussefIbraheem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+![YoussefIbraheem's Stats](https://github-readme-stats.vercel.app/api?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![YoussefIbraheem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbraheem&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
