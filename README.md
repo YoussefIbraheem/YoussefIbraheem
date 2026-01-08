@@ -53,7 +53,7 @@
 ### **Asynchronous Workers & Caching**
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white)
-
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ---
 
 ## 🤖 AI & LLM Development Tools
