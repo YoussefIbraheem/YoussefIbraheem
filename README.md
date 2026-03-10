@@ -1,87 +1,92 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I’m Youssef Ibraheem
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Youssef Ibraheem
 
-- 🖥️ **Mid-Level Backend Developer** with 2+ years of production experience building scalable systems using **Laravel**, **PHP**, and **MySQL**.
-- 🚀 Hands-on contributor to high-traffic applications, delivering optimized APIs, database improvements, caching strategies, and automated backend workflows.
-- 🐍 Expanding into **Python Backend Development**, working with **FastAPI**, **Flask**, and **Django** for API design and service integration.
-- 🤖 Actively integrating **Generative AI** into backend architectures using **LangChain**, **OpenAI**, **Ollama**, **Qdrant**, and vector-based retrieval techniques.
-- 🧰 Experienced with **Docker**, **Redis**, **Celery**, **FilamentPHP**, **Livewire**, **CI/CD pipelines**, and containerized production environments.
-- 📚 Currently enhancing my AI engineering skills through a specialised **GenAI course for backend developers**.
-- 💼 Open to collaborations on **Laravel**, **Python backend**, and **AI-powered backend systems**.
+**Backend Engineer** — I don't build features. I build systems that hold up when things go wrong.
+
+My focus is on the engineering decisions that matter in production: how data flows, how failures are handled, how systems stay consistent under pressure, and how backends scale without becoming a maintenance nightmare.
+
+I work primarily with **PHP/Laravel** and **Python/Django**, but the language is rarely the interesting part. The interesting part is understanding *why* a system behaves the way it does — and knowing what to change when it doesn't.
+
+- 🏗️ Experienced in building production backends for real users — subscription delivery platforms, community platforms, event ticketing systems
+- ⚙️ Focused on reliability patterns: atomic transactions, idempotency, background job orchestration, and fault-tolerant workflows
+- 🗄️ Strong database instincts — schema design, query optimization, indexing strategies, and caching layers
+- 🐍 Python backend development with Django, DRF, FastAPI, and Flask
+- 🤖 Familiar with integrating LLMs into backend architectures using LangChain, OpenAI, and Ollama — understanding where AI fits in a system, not just how to call an API
+- 🧰 Comfortable with the full backend toolchain: Docker, Redis, Celery, RabbitMQ, CI/CD, Nginx, AWS
 
 ---
 
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefm.muhammed@gmail.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/YoussefIbraheem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ibraheem/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YoussefIbraheem/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/YoussefIbraheem)
 [![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/joe_996)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@youssefm.muhammed)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012b1840a0af210d2d?mp_source=share)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAzODIgMzgyIiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSIjMDAwMDAwIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8%2BCg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggc3R5bGU9ImZpbGw6I2ZmZmZmZjsiIGQ9Ik0zNDcuNDQ1LDBIMzQuNTU1QzE1LjQ3MSwwLDAsMTUuNDcxLDAsMzQuNTU1djMxMi44ODlDMCwzNjYuNTI5LDE1LjQ3MSwzODIsMzQuNTU1LDM4MmgzMTIuODg5IEMzNjYuNTI5LDM4MiwzODIsMzY2LjUyOSwzODIsMzQ3LjQ0NFYzNC41NTVDMzgyLDE1LjQ3MSwzNjYuNTI5LDAsMzQ3LjQ0NSwweiBNMTE4LjIwNywzMjkuODQ0YzAsNS41NTQtNC41MDIsMTAuMDU2LTEwLjA1NiwxMC4wNTYgSDY1LjM0NWMtNS41NTQsMC0xMC4wNTYtNC41MDItMTAuMDU2LTEwLjA1NlYxNTAuNDAzYzAtNS41NTQsNC41MDItMTAuMDU2LDEwLjA1Ni0xMC4wNTZoNDIuODA2IGM1LjU1NCwwLDEwLjA1Niw0LjUwMiwxMC4wNTYsMTAuMDU2VjMyOS44NDR6IE04Ni43NDgsMTIzLjQzMmMtMjIuNDU5LDAtNDAuNjY2LTE4LjIwNy00MC42NjYtNDAuNjY2UzY0LjI4OSw0Mi4xLDg2Ljc0OCw0Mi4xIHM0MC42NjYsMTguMjA3LDQwLjY2Niw0MC42NjZTMTA5LjIwOCwxMjMuNDMyLDg2Ljc0OCwxMjMuNDMyeiBNMzQxLjkxLDMzMC42NTRjMCw1LjEwNi00LjE0LDkuMjQ2LTkuMjQ2LDkuMjQ2SDI4Ni43MyBjLTUuMTA2LDAtOS4yNDYtNC4xNC05LjI0Ni05LjI0NnYtODQuMTY4YzAtMTIuNTU2LDMuNjgzLTU1LjAyMS0zMi44MTMtNTUuMDIxYy0yOC4zMDksMC0zNC4wNTEsMjkuMDY2LTM1LjIwNCw0Mi4xMXY5Ny4wNzkgYzAsNS4xMDYtNC4xMzksOS4yNDYtOS4yNDYsOS4yNDZoLTQ0LjQyNmMtNS4xMDYsMC05LjI0Ni00LjE0LTkuMjQ2LTkuMjQ2VjE0OS41OTNjMC01LjEwNiw0LjE0LTkuMjQ2LDkuMjQ2LTkuMjQ2aDQ0LjQyNiBjNS4xMDYsMCw5LjI0Niw0LjE0LDkuMjQ2LDkuMjQ2djE1LjY1NWMxMC40OTctMTUuNzUzLDI2LjA5Ny0yNy45MTIsNTkuMzEyLTI3LjkxMmM3My41NTIsMCw3My4xMzEsNjguNzE2LDczLjEzMSwxMDYuNDcyIEwzNDEuOTEsMzMwLjY1NEwzNDEuOTEsMzMwLjY1NHoiLz4gPC9nPgoNPC9zdmc%2B)](https://www.linkedin.com/in/youssef-ibraheem/)
 [![Arc.dev](https://img.shields.io/badge/Arc.dev-010F57?style=for-the-badge&logoColor=white)](https://arc.dev/@youssefibraheem)
-[![Remoteyeah](https://img.shields.io/badge/remoteyeah-A8FF52?style=for-the-badge&logoColor=A8FF52)](https://remoteyeah.com/@youssefmibraheem)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Repo |
+| Project | What It Demonstrates | Tech Stack | Repo |
 |--------|-------------|------------|------|
-| **Ideal Laravel App** | A clean, modular REST API demonstrating Repository Pattern, caching, and test coverage. | Laravel, MySQL, Redis, PHPUnit | [View Repo](https://github.com/YoussefIbraheem/ideal_laravel_app) |
-| **Ideal Laravel App (Containerised)** | Fully Dockerized backend environment with isolated services for production parity and reproducibility. | Laravel, Docker, Redis, Nginx | [View Repo](https://github.com/YoussefIbraheem/ideal_laravel_app_containerized) |
-| **PHP MVC Implementation** | Custom lightweight MVC framework built from scratch following PSR standards. | PHP, Composer, PSR-4 | [View Repo](https://github.com/YoussefIbraheem/php_mvc_implementation) |
-| **Events Planning (Django)** | Event & ticketing backend with proper relational design, permissions, and early architecture. | Django, DRF, SQLite | [View Repo](https://github.com/YoussefIbraheem/events_planning_django) |
-
+| **Ideal Laravel App (Containerised)** | Production-parity local environment — isolated services, Dockerized backend, zero "works on my machine" problems | Laravel, Docker, Redis, Nginx | [View Repo](https://github.com/YoussefIbraheem/ideal_laravel_app_containerized) |
+| **PHP MVC Implementation** | Built an MVC framework from scratch — understanding what frameworks abstract so you're not dependent on them | PHP, Composer, PSR-4 | [View Repo](https://github.com/YoussefIbraheem/php_mvc_implementation) |
+| **Event Reservation & Ticketing** | Transactional integrity under concurrency — atomic operations, background jobs, structured logging, Redis caching | Django, DRF, Celery, Redis, Docker | [View Repo](https://github.com/YoussefIbraheem/events_planning_django) |
+| **Chat App – Streamlit + LLaMA 3** | Local LLM integration with retrieval-augmented context — exploring how language models fit into a backend architecture without depending on external APIs | Python, Streamlit, Ollama, Langchain, ChromaDB | [View Repo](https://github.com/YoussefIbraheem/ai-chat-app-streamlit) |
 ---
 
 ## 🛠️ Core Technologies
 
-### **Backend & Frameworks**
+### **Languages**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Frameworks**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### **Databases & ORMs**
+### **Databases & Caching**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-### **Asynchronous Workers & Caching**
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Background Processing & Messaging**
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### **DevOps & Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### **Testing & Quality**
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![PEST](https://img.shields.io/badge/PEST-rgb(124,58,237)?style=for-the-badge&logoColor=white)
+
 ---
 
-## 🤖 AI & LLM Development Tools
+## 🤖 AI & LLM Integration
+
+I'm interested in the backend side of AI — not prompt engineering, but understanding where LLMs fit into a system architecture and how to integrate them reliably.
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3B73?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Qdrant-8800FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iNTciIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA1NyA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEwMzQ5XzY2ODg4KSI%2BCjxwYXRoIGQ9Ik0yOC42NjY3IDBMMC45NTMxMjUgMTZWNDhMMjguNjY2NyA2NEwzOS4wNTg3IDU4VjQ2TDI4LjY2NjcgNTJMMTEuMzQ2NyA0MlYyMkwyOC42NjY3IDEyTDQ1Ljk4NjcgMjJWNjJMNTYuMzgwMyA1NlYxNkwyOC42NjY3IDBaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTguMjc0NyAyNlYzOEwyOC42NjY3IDQ0TDM5LjA1ODcgMzhWMjZMMjguNjY2NyAyMEwxOC4yNzQ3IDI2WiIgZmlsbD0id2hpdGUiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8xMDM0OV82Njg4OCI%2BCjxyZWN0IHdpZHRoPSI1NiIgaGVpZ2h0PSI2NCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuNjY0MDYyKSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM%2BCjwvc3ZnPgo%3D)
-
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-8800FF?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 💪 Additional Skills
-
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefIbraheem&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefIbraheem&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefIbraheem&theme=transparent&utcOffset=8)
-
