@@ -1,5 +1,3 @@
-<img src="./pepe-animation.gif" width="50%">
-
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Youssef Ibraheem
 
 **Backend Engineer** — I don't build features. I build systems that hold up when things go wrong.
@@ -92,3 +90,7 @@ I'm interested in the backend side of AI — not prompt engineering, but underst
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefIbraheem&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefIbraheem&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefIbraheem&theme=transparent&utcOffset=8)
+
+---
+
+<img src="./pepe-animation.gif" width="50%">
