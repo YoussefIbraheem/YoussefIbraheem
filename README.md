@@ -92,5 +92,3 @@ I'm interested in the backend side of AI — not prompt engineering, but underst
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefIbraheem&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefIbraheem&theme=transparent&utcOffset=8)
 
 ---
-
-<img src="./pepe-animation.gif" width="50%">
