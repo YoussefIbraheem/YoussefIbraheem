@@ -89,6 +89,7 @@ I'm interested in the backend side of AI — not prompt engineering, but underst
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/youssefibraheem?variant=strip)](https://ghfind.com/u/youssefibraheem?ref=badge)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefIbraheem&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefIbraheem&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefIbraheem&theme=transparent&utcOffset=8)
 
